@@ -1,0 +1,15 @@
+body {
+	font-family: "Courier New", monospace;
+}
+
+.button {
+	width : 80px;
+	height : 40px;
+	padding : 10px 10px 10px 10px;
+	margin : 20px;
+	font-size : 14px;
+	font-family : "Calibri";
+	text-align : center;
+	border : 2px solid black;
+	display : inline-block;
+}
